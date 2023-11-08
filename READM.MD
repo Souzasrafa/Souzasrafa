@@ -5,3 +5,5 @@
 # Salvando Modificações no Git Comit
 
 *Comando Git Push 
+
+*Comando Git Pull
